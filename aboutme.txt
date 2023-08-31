@@ -1,3 +1,3 @@
 Tsinanga Edgar Mwendwa
 136396
-A goe-tracking system for school buses
+A geo-tracking system for school buses
